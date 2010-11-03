@@ -13,7 +13,7 @@ layout: base
 
  * Extensive technical web development experience
  * Experience building and leading development teams
- * Professional level technical web development and *nix skill set
+ * Professional level technical web development and Unix skill set
 
 ## Education
 
