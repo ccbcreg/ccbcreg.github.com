@@ -1,3 +1,8 @@
+---
+title: Resume
+layout: base
+---
+
 # Nicholas Browning
 
  * <nick@nickbrowning.com>
