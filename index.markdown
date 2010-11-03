@@ -7,6 +7,7 @@ layout: base
 
  * <nick@nickbrowning.com>
  * <http://github.com/ccbcreg>
+ * [pdf version](pdf/Resume.pdf)
  * 202-549-5630
 
 ## Qualifications
@@ -29,8 +30,9 @@ Appalachian State University, Boone, NC<br/>Bachelor of Science: Geography, 1996
 
 **Software**
 
-<pre>Ruby on Rails, Linux, OS X, Git, Apache, MySQL, Textmate, Radiant, Chef, 
-Hadoop, Ferret, CAS Server, ETL data warehousing, JSON/RESTful Web Services, jQuery, Spree</pre>
+<pre>Ruby on Rails, Linux, OS X, Git, Apache, MySQL, Textmate, Radiant, Chef,
+Hadoop, Ferret, CAS Server, ETL data warehousing, JSON/RESTful Web Services,
+jQuery, Spree</pre>
 
 ## Experience
 
