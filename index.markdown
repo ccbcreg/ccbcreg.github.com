@@ -56,7 +56,7 @@ Designed, built, and managed web applications for startup company with focus on 
 
 ### Netquick.net ISP, Fayetteville, NC
 
-#### Web Developer, 1998-1999
+**Web Developer, 1998-1999**
 
 Designed small to medium web sites for ISP/web shop.  Managed DNS servers and Web servers on FreeBSD platform.  
 
