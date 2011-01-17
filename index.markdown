@@ -30,9 +30,9 @@ Appalachian State University, Boone, NC<br/>Bachelor of Science: Geography, 1996
 
 **Software**
 
-<pre>Ruby on Rails, Linux, OS X, Git, Apache, MySQL, Textmate, Radiant, Chef,
+<pre>Ruby on Rails, Ubuntu, OS X, Git, Apache, MySQL, SQLite3, NoSQL (Redis, MongoDB), Textmate, Radiant, Chef,
 Hadoop, Ferret, CAS Server, ETL data warehousing, JSON/RESTful Web Services,
-jQuery, Spree</pre>
+jQuery, VIM</pre>
 
 ## Experience
 
