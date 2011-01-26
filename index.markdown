@@ -5,7 +5,7 @@ layout: base
 
 # Nicholas Browning
 
- * <nick@nickbrowning.com>
+ * <resume@nickbrowning.com>
  * <http://github.com/ccbcreg>
  * [pdf version](pdf/Resume.pdf)
  * 202-549-5630
