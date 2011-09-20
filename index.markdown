@@ -24,15 +24,15 @@ Appalachian State University, Boone, NC<br/>Bachelor of Science: Geography, 1996
 
 **Programming Languages**
 
-<pre>Proficient in:  XHTML/CSS, Ruby, PHP, Javascript</pre>
+<pre>Proficient in:  HTML5/CSS3, XHTML/CSS2, Ruby, PHP, Javascript</pre>
 
 <pre>Experience with: PERL, Bash</pre>
 
 **Software**
 
-<pre>Ruby on Rails, Ubuntu, OS X, Git, Apache, MySQL, SQLite3, NoSQL (Redis, MongoDB, CouchDB), Textmate, Radiant, 
+<pre>Ruby on Rails, Ubuntu, OS X, Git, Apache, MySQL, SQLite3, NoSQL (Redis, MongoDB, CouchDB), Textmate
 Chef, Hadoop, Ferret, Sinatra, Bundler, CAS Server, ETL data warehousing, JSON/RESTful Web Services,
-jQuery, VIM, Google Maps v3, Google Fusion Tables, KML Parsers, Google Refine, Geocoding</pre>
+jQuery, VIM, Google Maps v3, Google Fusion Tables, KML Parsers, Google Refine, Geocoding, Radiant</pre>
 
 ## Experience
 
