@@ -31,8 +31,8 @@ Appalachian State University, Boone, NC<br/>Bachelor of Science: Geography, 1996
 **Software**
 
 <pre>Ruby on Rails, Ubuntu, OS X, Git, Apache, MySQL, SQLite3, NoSQL (Redis, MongoDB, CouchDB), Textmate, Radiant, 
-Chef, Hadoop, Ferret, CAS Server, ETL data warehousing, JSON/RESTful Web Services,
-jQuery, VIM, Google Maps v3, Google Fusion Tables</pre>
+Chef, Hadoop, Ferret, Sinatra, Bundler, CAS Server, ETL data warehousing, JSON/RESTful Web Services,
+jQuery, VIM, Google Maps v3, Google Fusion Tables, KML Parsers, Google Refine, Geocoding</pre>
 
 ## Experience
 
