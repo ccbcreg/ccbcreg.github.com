@@ -26,7 +26,7 @@ Appalachian State University, Boone, NC<br/>Bachelor of Science: Geography, 1996
 
 <pre>Proficient in:  HTML5/CSS3, XHTML/CSS2, Ruby, PHP, Javascript</pre>
 
-<pre>Experience with: PERL, Bash</pre>
+<pre>Experience with: PERL, Bash, AppleScript</pre>
 
 **Software**
 
