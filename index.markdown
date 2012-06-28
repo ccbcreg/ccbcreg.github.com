@@ -31,7 +31,7 @@ Appalachian State University, Boone, NC<br/>Bachelor of Science: Geography, 1996
 **Software**
 
 <pre>Ruby on Rails, Ubuntu, OS X, Git, Apache, MySQL, SQLite3, NoSQL (Redis, MongoDB, CouchDB), Textmate
-Chef, Hadoop, Ferret, Sinatra, Bundler, CAS Server, ETL data warehousing, JSON/RESTful Web Services,
+Chef, Hadoop, Hive, Ferret, Sinatra, Bundler, CAS Server, ETL data warehousing, JSON/RESTful Web Services,
 jQuery, VIM, Google Maps v3, Google Fusion Tables, KML Parsers, Google Refine, Geocoding, Radiant</pre>
 
 ## Experience
@@ -40,7 +40,7 @@ jQuery, VIM, Google Maps v3, Google Fusion Tables, KML Parsers, Google Refine, G
 ### TeleGeography,Washington, DC
 **Web Developer, Dec 2008 - Present**
 
-Manage and build TeleGeography web products using a myriad of technologies including Hadoop, Ferret, Salesforce/Backpack data integration, Chef, JSON, Hpricot, CAS Server and data warehousing using an ETL process. Serve as technical lead for Ubuntu servers, network security, DNS, and Gitosis administration.  Implement advanced product deployment techniques using Capistrano. Work closely with research staff to prototype and implement technology, including graphing, [interactive cartography](http://www.submarinecablemap.com) and searching, to enhance web products and their usefulness.  Independently research and introduce innovative development techniques to optimize production quality. Open Source software contributor to  [Thor](https://github.com/wycats/thor/contributors) and [Radiant Page Attachment Extension](https://github.com/radiant/radiant-page-attachments-extension/contributors).
+Manage and build TeleGeography web products using a myriad of technologies including Hadoop, Ferret, Salesforce/Backpack data integration, Chef, JSON, Hpricot, CAS Server and [data warehousing]http://hive.apache.org/ using an [ETL process]https://github.com/activewarehouse/activewarehouse-etl. Serve as technical lead for Ubuntu servers, network security, DNS, and Gitosis administration.  Implement advanced product deployment techniques using Capistrano. Work closely with research staff to prototype and implement technology, including graphing, [interactive cartography](http://www.submarinecablemap.com) and searching, to enhance web products and their usefulness.  Independently research and introduce innovative development techniques to optimize production quality. Open Source software contributor to  [Thor](https://github.com/wycats/thor/contributors) and [Radiant Page Attachment Extension](https://github.com/radiant/radiant-page-attachments-extension/contributors).
 
 
 ### Hirshorn Zuckerman Design Group, Rockville, MD
