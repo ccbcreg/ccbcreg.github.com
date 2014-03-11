@@ -33,7 +33,7 @@ Appalachian State University, Boone, NC<br/>Bachelor of Science: Geography, 1996
 <pre>Ruby on Rails, Ubuntu, OS X, Git, Apache, MySQL, SQLite3, NoSQL (Redis, MongoDB, CouchDB), Textmate, VIM,
 Chef, Hadoop CDH3/4, Hive, Ferret, Sinatra, Bundler, CAS Server, ETL data warehousing, JSON/RESTful Web Services,
 jQuery, VIM, Google Maps v3, Google Fusion Tables, Google API Client, Google Docs Scripting API, KML Parsers,
-Google Refine, PrinceXML, Geocoding, Radiant, Node.js, Rackspace Cloud Services</pre>
+Google Refine, PrinceXML, Geocoding, Radiant, Node.js, Rackspace Cloud Services API</pre>
 
 ## Experience
 
